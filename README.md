@@ -6,7 +6,7 @@ G&T Results 2018-19.csv and NYC GT Cleaned data.csv
 
 NYC GT Cleaned data.csv
 
-- Cleaned dataset THAT is ready for analysis.
+- Cleaned dataset that is ready for analysis.
 
 Data Preperation Practicum Project.R 
 
