@@ -10,5 +10,5 @@ NYC GT Cleaned data.csv
 
 Data Preperation Practicum Project.R 
 
-- Thus R script shows how the data is cleaned and how I dealt with missing data, outliers and errors. There are comments that describe what is being done. 
+- Thus R code shows how the data is cleaned and how I dealt with missing data, outliers and errors. There are comments that describe what is being done. 
 
